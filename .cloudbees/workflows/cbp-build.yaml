@@ -24,7 +24,7 @@ jobs:
       - name: register-build-artifacts
         uses: https://github.com/cloudbees-io/register-build-artifact@v1
         with:
-          name: TestApp-APIs
+          name: App1-APIs
           version: 1.0.0
           url: docker.io/TestApp/APIs:1.0.0
           digest: "sha256:l6b223ee08af5e43a7feb6c4cfpc25ccf269ee113168c19722f87876677c5cb2"
