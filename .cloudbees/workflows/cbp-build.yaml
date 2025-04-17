@@ -27,7 +27,7 @@ jobs:
           name: App1-APIs
           version: 1.0.0
           url: docker.io/App1/APIs:1.0.0
-          digest: "sha256:l7b344ee08af5e43a8feb6c4cfpc25ccf269ee113168c19722f87876677c5cb2"
+          digest: "sha256:l7b344ee09af5e43a8feb6c4cfpc25ccf269ee113168c19722f87876677c5cb2"
 
   deploy:
     needs:
